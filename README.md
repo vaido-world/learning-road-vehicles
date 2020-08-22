@@ -4,6 +4,9 @@
 Sankabos paskirtis labai paprasta - perduoti sukimo jėgą į automobilio varomuosius ratus. 
 
 
+## Naudingi šaltiniai
+https://www.autopolis.lt/lt/auto-terminu-zodynas
+
 
 
 ### Footnotes
