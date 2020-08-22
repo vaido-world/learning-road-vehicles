@@ -3,7 +3,8 @@
 ## Sankaba
 Sankabos paskirtis labai paprasta - perduoti sukimo jėgą į automobilio varomuosius ratus.  
 Sankaba sujungia variklį su varomaisiais ratais per pavarų dėžę.  
-Spausdami sankabos pedalą, laikinai tarsi atjungiame variklį nuo ratų ir tada automobilis pradeda riedėti laisva eiga. 
+Spausdami sankabos pedalą, laikinai tarsi atjungiame variklį nuo ratų ir tada automobilis pradeda riedėti laisva eiga.  
+Kai sankabos pedalą atleidžiame, sankaba palaipsniui perduoda variklio sukimąsi pavarų dėžei, o pastaroji perduoda sukimąsi į ratus.
 
 ## Sankabos naudojimas
 [Sankaba turi būti naudojama atsargiai!]  
