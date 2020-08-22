@@ -8,8 +8,12 @@ Kai sankabos pedalą atleidžiame, sankaba palaipsniui perduoda variklio sukimą
 
 ## Sankabos naudojimas
 [Sankaba turi būti naudojama atsargiai!]  
+Jeigu turite automobilį su mechanine pavarų dėže, puikiai žinote, jog norėdami pajudėti iš vietos, privalote įspausti sankabos pedalą, įjungti reikiamą bėgį ir po truputėlį vienu metu spausti akceleratorių ir po truputėlį atleidinėti sankabos pedalą.
+
 Sankabos pėdalas turi būti įminamas kojos priekiu iki galo.  
 Kai stabdoma - sankabos pėdalas turi būti įmintas, prieš varikliui pradedant veikti **tuščiaja eiga**.  
+
+
 
 ## Sankaba naudojama kai
 * Švelniai reguliuojant greitį
