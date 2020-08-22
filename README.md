@@ -1,6 +1,6 @@
 # learning-road-vehicles
 
-## Sankaba
+## Sankaba (angl. Clutch)
 Sankabos paskirtis labai paprasta - perduoti sukimo jėgą į automobilio varomuosius ratus.  
 Sankaba sujungia variklį su varomaisiais ratais per pavarų dėžę.  
 Spausdami sankabos pedalą, laikinai tarsi atjungiame variklį nuo ratų ir tada automobilis pradeda riedėti laisva eiga.  
