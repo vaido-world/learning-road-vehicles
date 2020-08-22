@@ -11,7 +11,7 @@ Kai sankabos pedalą atleidžiame, sankaba palaipsniui perduoda variklio sukimą
 Sankabos pėdalas turi būti įminamas kojos priekiu iki galo.  
 Kai stabdoma - sankabos pėdalas turi būti įmintas, prieš varikliui pradedant veikti tuščiaja eiga.  
 
-## Sankaba naudojama
+## Sankaba naudojama kai
 * Švelniai reguliuojant greitį
 * Pajudant iš vietos
 * Važiuojant lėtai arba labai lėtai
