@@ -17,6 +17,9 @@ Kai stabdoma - sankabos pėdalas turi būti įmintas, prieš varikliui pradedant
 * Važiuojant lėtai arba labai lėtai
 * Važiuojant atbuline pavara
 
+## Kodėl sankaba egzistuoja
+Mašinos variklis sukasi nuolatos, o ratai - ne. Kad automobilis sustotų, o variklis neužgestų, ratus reikia kaip nors „išjungti“. Būtent sankaba leidžia sklandžiai prijungti arba atjungti besisukantį variklį prie nesisukančios pavarų dėžės, kontroliuojant slydimą tarp jų.
+
 
 ---
 ### Naudingi šaltiniai
