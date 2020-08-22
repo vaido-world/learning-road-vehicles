@@ -35,7 +35,7 @@ https://www.autopolis.lt/lt/auto-terminu-zodynas
 
 **angl. kalba**  
 https://www.youtube.com/watch?v=devo3kdSPQY
-
+https://www.youtube.com/watch?v=JOLtS4VUcvQ
 
 ### Footnotes
 https://automanas.autobilis.lt/kas-slepiasi-uz-zodzio-sankaba/  
