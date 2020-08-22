@@ -1,6 +1,7 @@
 # learning-road-vehicles
 
 ## Terminai
+Rinkdamiesi naują transporto priemonę matome dvi pagrindines charakteristikas – sukimo momentą ir galią.  
 [Torque | sukimo momentas |](http://anglu-lietuviu.xb.lt/w.php?w=torque) Kuo didesnį sukimo momentą išvysto variklis, tuo daugiau darbo jis gali nuveikti. [
 ¹](https://nodum.lt/galia-pries-sukimo-momenta-ka-reiskia-sie-skaiciai-ir-i-kuri-reiketu-labiau-atkreipti-demesi/#post-1303:~:text=Kuo%20didesn%C4%AF%20sukimo%20moment%C4%85%20i%C5%A1vysto%20variklis%2C%20tuo%20daugiau%20darbo%20jis%20gali%20nuveikti.)
 
