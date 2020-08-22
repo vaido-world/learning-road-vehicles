@@ -38,6 +38,7 @@ Būtent sankaba leidžia sklandžiai prijungti arba atjungti besisukantį varikl
 ---
 ### Naudingi šaltiniai
 https://www.autopolis.lt/lt/auto-terminu-zodynas
+http://www.sumtp.lt/sankaba/
 
 **angl. kalba**  
 https://www.youtube.com/watch?v=devo3kdSPQY  
