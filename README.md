@@ -5,8 +5,9 @@ Sankabos paskirtis labai paprasta - perduoti sukimo jėgą į automobilio varomu
 Sankaba sujungia variklį su varomaisiais ratais per pavarų dėžę.  
 
 ## Sankabos naudojimas
-[Sankaba turi būti naudojama atsargiai!]
-Sankabos pėdalas turi būti įminamas kojos priekiu iki galo.
+[Sankaba turi būti naudojama atsargiai!]  
+Sankabos pėdalas turi būti įminamas kojos priekiu iki galo.  
+Kai stabdoma - sankabos pėdalas turi būti įmintas, prieš varikliui pradedant veikti.  
 
 ## Sankaba naudojama
 * Švelniai reguliuojant greitį
