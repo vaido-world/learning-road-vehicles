@@ -1,5 +1,9 @@
 # learning-road-vehicles
 
+## Terminai
+[Torque | sukimo momentas |](http://anglu-lietuviu.xb.lt/w.php?w=torque)
+
+
 ## Sankaba (angl. Clutch)
 Sankabos paskirtis labai paprasta - perduoti sukimo jėgą į automobilio varomuosius ratus.  
 Sankaba sujungia variklį su varomaisiais ratais per pavarų dėžę.  
