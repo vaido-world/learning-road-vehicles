@@ -32,10 +32,9 @@ Būtent sankaba leidžia sklandžiai prijungti arba atjungti besisukantį varikl
 ---
 ### Naudingi šaltiniai
 https://www.autopolis.lt/lt/auto-terminu-zodynas
-https://www.youtube.com/watch?v=5cgLXGTo4GU
 
 
 
 ### Footnotes
-https://automanas.autobilis.lt/kas-slepiasi-uz-zodzio-sankaba/
+https://automanas.autobilis.lt/kas-slepiasi-uz-zodzio-sankaba/  
 https://www.youtube.com/watch?v=5cgLXGTo4GU
