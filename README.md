@@ -1,7 +1,8 @@
 # learning-road-vehicles
 
 ## Terminai
-[Torque | sukimo momentas |](http://anglu-lietuviu.xb.lt/w.php?w=torque)
+[Torque | sukimo momentas |](http://anglu-lietuviu.xb.lt/w.php?w=torque) Kuo didesnį sukimo momentą išvysto variklis, tuo daugiau darbo jis gali nuveikti. [
+¹](https://nodum.lt/galia-pries-sukimo-momenta-ka-reiskia-sie-skaiciai-ir-i-kuri-reiketu-labiau-atkreipti-demesi/)
 
 
 ## Sankaba (angl. Clutch)
