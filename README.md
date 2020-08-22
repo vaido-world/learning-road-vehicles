@@ -7,7 +7,7 @@ Sankaba sujungia variklį su varomaisiais ratais per pavarų dėžę.
 ## Sankabos naudojimas
 [Sankaba turi būti naudojama atsargiai!]  
 Sankabos pėdalas turi būti įminamas kojos priekiu iki galo.  
-Kai stabdoma - sankabos pėdalas turi būti įmintas, prieš varikliui pradedant veikti.  
+Kai stabdoma - sankabos pėdalas turi būti įmintas, prieš varikliui pradedant veikti tuščiaja eiga.  
 
 ## Sankaba naudojama
 * Švelniai reguliuojant greitį
