@@ -43,6 +43,7 @@ http://www.sumtp.lt/sankaba/
 **angl. kalba**  
 https://www.youtube.com/watch?v=devo3kdSPQY  
 https://www.youtube.com/watch?v=JOLtS4VUcvQ  
+https://www.youtube.com/watch?v=ErCw1FfLPf4
 
 ### Footnotes
 https://automanas.autobilis.lt/kas-slepiasi-uz-zodzio-sankaba/  
