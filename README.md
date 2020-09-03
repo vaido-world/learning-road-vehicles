@@ -49,6 +49,8 @@ https://www.youtube.com/watch?v=ErCw1FfLPf4
 **angl. kalba** Sankabos naudojimas  
 https://www.youtube.com/watch?v=fc61Q_Z4GEs  
 Manual Car Stall https://youtu.be/zDbn0Shb54U?t=122  
+Recovering from Car Stall https://www.youtube.com/watch?v=YD39gL6tjd0
+
 
 ### Footnotes
 https://automanas.autobilis.lt/kas-slepiasi-uz-zodzio-sankaba/  
