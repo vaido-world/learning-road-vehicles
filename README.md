@@ -45,6 +45,10 @@ https://www.youtube.com/watch?v=devo3kdSPQY
 https://www.youtube.com/watch?v=JOLtS4VUcvQ  
 https://www.youtube.com/watch?v=ErCw1FfLPf4
 
+
+**angl. kalba** Sankabos naudojimas
+https://www.youtube.com/watch?v=fc61Q_Z4GEs
+
 ### Footnotes
 https://automanas.autobilis.lt/kas-slepiasi-uz-zodzio-sankaba/  
 https://www.youtube.com/watch?v=5cgLXGTo4GU
