@@ -1,0 +1,25 @@
+3.7
+Kelias – eismui skirta ir naudojama [žemės arba
+statinio] paviršiaus juosta per visą jos plotį,
+
+Įskaitant:
+važiuojamąją kelio dalį (toliau – važiuojamoji dalis),
+sankryžas, šaligatvius, kelkraščius, pėsčiųjų ir dviračių
+takus, skiriamąsias kelio juostas. 
+
+
+3.8. Kelkraštis – 
+šalia važiuojamosios dalies 
+(nuo jos krašto iki kelio sankasos briaunos) 
+esantis kelio elementas, 
+
+dengtas tokia pat kaip važiuojamoji dalis 
+ar kitokia danga arba (ir) 
+
+atskirtas nuo važiuojamosios dalies 
+jos kraštą žyminčia horizontaliojo ženklinimo linija,
+
+tačiau nelaikomas
+nei šaligatviu, nei pėsčiųjų taku, nei dviračių taku ar
+dviračių juosta, nei pėsčiųjų ir dviračių taku. 
+
